@@ -1,0 +1,807 @@
+[
+  {
+    "id": 62,
+    "pic": "http://y.gtimg.cn/music/photo_new/T003R300x300M000000Y1yBl09yhDn.jpg",
+    "name": "飙升榜",
+    "period": "2021-05-19",
+    "songList": [
+      {
+        "id": 310628029,
+        "singerName": "aespa (에스파)",
+        "songName": "Next Level"
+      },
+      {
+        "id": 269062489,
+        "singerName": "王韵",
+        "songName": "思念成沙"
+      },
+      {
+        "id": 234146938,
+        "singerName": "阿肆",
+        "songName": "热爱105°C的你"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "pic": "http://y.gtimg.cn/music/photo_new/T003R300x300M0000012hfiH0jO3r3.jpg",
+    "name": "热歌榜",
+    "period": "2021_19",
+    "songList": [
+      {
+        "id": 305023607,
+        "singerName": "戴羽彤",
+        "songName": "来迟"
+      },
+      {
+        "id": 304225136,
+        "singerName": "刘惜君/王赫野",
+        "songName": "大风吹 (Live)"
+      },
+      {
+        "id": 300836597,
+        "singerName": "王赫野",
+        "songName": "大风吹"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "pic": "http://y.gtimg.cn/music/photo_new/T003R300x300M0000028F1mF3xzdBP.jpg",
+    "name": "新歌榜",
+    "period": "2021-05-19",
+    "songList": [
+      {
+        "id": 307167242,
+        "singerName": "任然",
+        "songName": "落海"
+      },
+      {
+        "id": 308111880,
+        "singerName": "李荣浩",
+        "songName": "不遗憾"
+      },
+      {
+        "id": 308271373,
+        "singerName": "24KGoldn/iann dior/Lil Ghost小鬼",
+        "songName": "Mood (Lil Ghost Remix|Explicit)"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "pic": "http://y.gtimg.cn/music/photo_new/T003R300x300M000002hvkPx3dAsNK.jpg",
+    "name": "流行指数榜",
+    "period": "2021-05-19",
+    "songList": [
+      {
+        "id": 234146938,
+        "singerName": "阿肆",
+        "songName": "热爱105°C的你"
+      },
+      {
+        "id": 310132646,
+        "singerName": "孙楠",
+        "songName": "善变 (Live)"
+      },
+      {
+        "id": 309848434,
+        "singerName": "是七叔呢",
+        "songName": "半生雪"
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "pic": "http://y.gtimg.cn/music/photo_new/T003R300x300M000004XLJWf21Hwcm.jpg",
+    "name": "听歌识曲榜",
+    "period": "2021-05-19",
+    "songList": [
+      {
+        "id": 308411425,
+        "singerName": "梦涵",
+        "songName": "爱的暴风雨 (DJ 霄霄粤语版)"
+      },
+      {
+        "id": 286007457,
+        "singerName": "傅梦彤",
+        "songName": "潮汐 (Natural) (DJ版)"
+      },
+      {
+        "id": 310408147,
+        "singerName": "一栗莎子",
+        "songName": "热爱105度的你 (抖音女声版)"
+      }
+    ]
+  },
+  {
+    "id": 201,
+    "pic": "http://y.gtimg.cn/music/photo_new/T003R300x300M000003bSn3X1wIUJR.jpg",
+    "name": "MV榜",
+    "period": "",
+    "songList": [
+      {
+        "id": 0,
+        "singerName": "aespa",
+        "songName": "aespa《Next Level》MV"
+      },
+      {
+        "id": 0,
+        "singerName": "蔡徐坤",
+        "songName": "#0000FF"
+      },
+      {
+        "id": 0,
+        "singerName": "周深",
+        "songName": "悬崖之上 (《悬崖之上》电影主题曲)"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "pic": "http://y.gtimg.cn/music/photo_new/T003R300x300M000000U0laR18xjgJ.jpg",
+    "name": "内地榜",
+    "period": "2021_19",
+    "songList": [
+      {
+        "id": 308111880,
+        "singerName": "李荣浩",
+        "songName": "不遗憾"
+      },
+      {
+        "id": 307167242,
+        "singerName": "任然",
+        "songName": "落海"
+      },
+      {
+        "id": 309082881,
+        "singerName": "Lil Ghost小鬼",
+        "songName": "别叫我达芬奇 (Punk Version)"
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "pic": "http://y.gtimg.cn/music/photo_new/T003R300x300M000000JW2OQ3MSmFr.jpg",
+    "name": "香港地区榜",
+    "period": "2021_19",
+    "songList": [
+      {
+        "id": 309058164,
+        "singerName": "莫文蔚",
+        "songName": "这世界那么多人"
+      },
+      {
+        "id": 304083789,
+        "singerName": "G.E.M. 邓紫棋",
+        "songName": "超能力"
+      },
+      {
+        "id": 308664338,
+        "singerName": "郑秀文",
+        "songName": "万物有时"
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "pic": "http://y.gtimg.cn/music/photo_new/T003R300x300M000003CsQ2F0heMq8.jpg",
+    "name": "台湾地区榜",
+    "period": "2021_19",
+    "songList": [
+      {
+        "id": 308553409,
+        "singerName": "Eric周兴哲",
+        "songName": "离开你以后"
+      },
+      {
+        "id": 309045906,
+        "singerName": "温岚",
+        "songName": "如果你在我身边"
+      },
+      {
+        "id": 308585632,
+        "singerName": "周传雄",
+        "songName": "流光"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "pic": "http://y.gtimg.cn/music/photo_new/T003R300x300M000002SjKL51EWWN2.jpg",
+    "name": "欧美榜",
+    "period": "2021_19",
+    "songList": [
+      {
+        "id": 308271373,
+        "singerName": "24KGoldn/iann dior/Lil Ghost小鬼",
+        "songName": "Mood (Lil Ghost Remix|Explicit)"
+      },
+      {
+        "id": 308955212,
+        "singerName": "OneRepublic",
+        "songName": "Run"
+      },
+      {
+        "id": 201481565,
+        "singerName": "Adieu",
+        "songName": "Holy Grail (Adieu Remix)"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "pic": "http://y.gtimg.cn/music/photo_new/T003R300x300M000004enInG33AcsR.jpg",
+    "name": "韩国榜",
+    "period": "2021_19",
+    "songList": [
+      {
+        "id": 308732643,
+        "singerName": "OH MY GIRL (오마이걸)",
+        "songName": "Dun Dun Dance"
+      },
+      {
+        "id": 308531243,
+        "singerName": "ITZY (있지)",
+        "songName": "In the morning"
+      },
+      {
+        "id": 309030902,
+        "singerName": "NCT DREAM (엔시티 드림)",
+        "songName": "味 (Hot Sauce) (맛)"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "pic": "http://y.gtimg.cn/music/photo_new/T003R300x300M000004BLKE70LRRBO.jpg",
+    "name": "日本榜",
+    "period": "2021_19",
+    "songList": [
+      {
+        "id": 308529092,
+        "singerName": "YOASOBI (ヨアソビ)",
+        "songName": "もう少しだけ"
+      },
+      {
+        "id": 308813353,
+        "singerName": "爱缪 (あいみょん)",
+        "songName": "愛を知るまでは (直到知晓爱)"
+      },
+      {
+        "id": 305368397,
+        "singerName": "ReoNa",
+        "songName": "ないない"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "pic": "http://y.gtimg.cn/music/photo_new/T003R300x300M000000U4ACx3zadug.jpg",
+    "name": "网络歌曲榜",
+    "period": "2021_19",
+    "songList": [
+      {
+        "id": 308109338,
+        "singerName": "莫叫姐姐",
+        "songName": "下辈子不一定还能遇见你 (吉他版)"
+      },
+      {
+        "id": 308332903,
+        "singerName": "海来阿木",
+        "songName": "烟雨人间"
+      },
+      {
+        "id": 307989535,
+        "singerName": "张小九",
+        "songName": "腐坏"
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "pic": "http://y.gtimg.cn/music/photo_new/T003R300x300M000004fb1wG3btlB9.jpg",
+    "name": "DJ舞曲榜",
+    "period": "2021_19",
+    "songList": [
+      {
+        "id": 308254531,
+        "singerName": "戴羽彤",
+        "songName": "来迟 (DJ名龙版)"
+      },
+      {
+        "id": 307444817,
+        "singerName": "王恰恰",
+        "songName": "三更夜半想你到心酸 (DJ阿卓版)"
+      },
+      {
+        "id": 308411425,
+        "singerName": "梦涵",
+        "songName": "爱的暴风雨 (DJ 霄霄粤语版)"
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "pic": "http://y.gtimg.cn/music/photo_new/T003R300x300M000001lrp1F17ejjq.jpg",
+    "name": "Q音快手榜",
+    "period": "2021_19",
+    "songList": [
+      {
+        "id": 250423918,
+        "singerName": "陈雅森",
+        "songName": "下辈子不一定还能遇见你"
+      },
+      {
+        "id": 273549538,
+        "singerName": "张茜",
+        "songName": "用力活着"
+      },
+      {
+        "id": 304115568,
+        "singerName": "海来阿木/小阿枫",
+        "songName": "人生如歌"
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "pic": "http://y.gtimg.cn/music/photo_new/T003R300x300M000002D1MUy1cQCBO.jpg",
+    "name": "抖音排行榜",
+    "period": "2021_19",
+    "songList": [
+      {
+        "id": 308553409,
+        "singerName": "Eric周兴哲",
+        "songName": "离开你以后"
+      },
+      {
+        "id": 308639847,
+        "singerName": "郭正正/Old crab",
+        "songName": "你的眼睛像星星"
+      },
+      {
+        "id": 309074028,
+        "singerName": "刘逸云 Amber Liu",
+        "songName": "爱人错过 (Live)"
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "pic": "http://y.gtimg.cn/music/photo_new/T003R300x300M000003vCtVw00Oqc3.jpg",
+    "name": "综艺新歌榜",
+    "period": "2021_19",
+    "songList": [
+      {
+        "id": 304225136,
+        "singerName": "刘惜君/王赫野",
+        "songName": "大风吹 (Live)"
+      },
+      {
+        "id": 309074028,
+        "singerName": "刘逸云 Amber Liu",
+        "songName": "爱人错过 (Live)"
+      },
+      {
+        "id": 309074031,
+        "singerName": "于文文",
+        "songName": "Dancing With Your Ghost (Live)"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "pic": "http://y.gtimg.cn/music/photo_new/T003R300x300M0000029Kgxg1s6Jo2.jpg",
+    "name": "影视金曲榜",
+    "period": "2021_19",
+    "songList": [
+      {
+        "id": 308553409,
+        "singerName": "Eric周兴哲",
+        "songName": "离开你以后"
+      },
+      {
+        "id": 308111880,
+        "singerName": "李荣浩",
+        "songName": "不遗憾"
+      },
+      {
+        "id": 307982244,
+        "singerName": "周深",
+        "songName": "悬崖之上"
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "pic": "http://y.gtimg.cn/music/photo_new/T003R300x300M000000EDOmt26j3h4.jpg",
+    "name": "国风热歌榜",
+    "period": "2021_19",
+    "songList": [
+      {
+        "id": 308342980,
+        "singerName": "李玉刚",
+        "songName": "万疆"
+      },
+      {
+        "id": 308126519,
+        "singerName": "大橘为重/蔡翊昇/西瓜JUN",
+        "songName": "向晚待春风"
+      },
+      {
+        "id": 309047246,
+        "singerName": "小曲儿",
+        "songName": "三月初三"
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "pic": "http://y.gtimg.cn/music/photo_new/T003R300x300M000004d6VBc16zygj.jpg",
+    "name": "说唱榜",
+    "period": "2021_19",
+    "songList": [
+      {
+        "id": 309078364,
+        "singerName": "Tizzy T",
+        "songName": "失控"
+      },
+      {
+        "id": 309621528,
+        "singerName": "Tizzy T/VaVa毛衍七/Jony J/布瑞吉Bridge/黄旭",
+        "songName": "少数派报告"
+      },
+      {
+        "id": 308577099,
+        "singerName": "KnowKnow/BabyBo",
+        "songName": "帅哥 RAPPER (feat. BABYBO)"
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "pic": "http://y.gtimg.cn/music/photo_new/T003R300x300M000002cYRBR2FOdm3.jpg",
+    "name": "电音榜",
+    "period": "2021_19",
+    "songList": [
+      {
+        "id": 201481565,
+        "singerName": "Adieu",
+        "songName": "Holy Grail (Adieu Remix)"
+      },
+      {
+        "id": 307270716,
+        "singerName": "R3HAB/蔡依林",
+        "songName": "Stars Align (Alle Farben Remix)"
+      },
+      {
+        "id": 301988247,
+        "singerName": "R3HAB/蔡依林",
+        "songName": "Stars Align"
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "pic": "http://y.gtimg.cn/music/photo_new/T003R300x300M0000005rW6Z0uI5kc.jpg",
+    "name": "动漫音乐榜",
+    "period": "2021_19",
+    "songList": [
+      {
+        "id": 305368397,
+        "singerName": "ReoNa",
+        "songName": "ないない"
+      },
+      {
+        "id": 307890377,
+        "singerName": "Official鬍子男dism (Official Hige Dandism)",
+        "songName": "Cry Baby"
+      },
+      {
+        "id": 304945738,
+        "singerName": "SawanoHiroyuki[nZk] (泽野弘之)/瑞葵 (mizuki)",
+        "songName": "Avid"
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "pic": "http://y.gtimg.cn/music/photo_new/T003R300x300M000002mwtTn0klLaM.jpg",
+    "name": "游戏音乐榜",
+    "period": "2021_19",
+    "songList": [
+      {
+        "id": 307270716,
+        "singerName": "R3HAB/蔡依林",
+        "songName": "Stars Align (Alle Farben Remix)"
+      },
+      {
+        "id": 301988247,
+        "singerName": "R3HAB/蔡依林",
+        "songName": "Stars Align"
+      },
+      {
+        "id": 308039970,
+        "singerName": "英雄联盟",
+        "songName": "Starts Right Here"
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "pic": "http://y.gtimg.cn/music/photo_new/T003R300x300M0000003tgZ83Y0BwJ.jpg",
+    "name": "达人音乐榜",
+    "period": "2021_19",
+    "songList": [
+      {
+        "id": 309813774,
+        "singerName": "吴岱林",
+        "songName": "来迟 (原唱: 戴羽彤)"
+      },
+      {
+        "id": 308959930,
+        "singerName": "博仔",
+        "songName": "嘉宾 (原唱:张远)"
+      },
+      {
+        "id": 308543251,
+        "singerName": "是七叔呢",
+        "songName": "来迟 (原唱:戴羽彤)"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "pic": "http://y.gtimg.cn/music/photo_new/T003R300x300M000004NGMTx04uXpm.jpg",
+    "name": "K歌金曲榜",
+    "period": "2021_19",
+    "songList": [
+      {
+        "id": 291911135,
+        "singerName": "大籽",
+        "songName": "白月光与朱砂痣"
+      },
+      {
+        "id": 212606735,
+        "singerName": "于文文",
+        "songName": "体面"
+      },
+      {
+        "id": 4830150,
+        "singerName": "刘若英",
+        "songName": "后来"
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "pic": "http://y.gtimg.cn/music/photo_new/T003R300x300M000004NrRMV2ECHVN.jpg",
+    "name": "腾讯音乐人原创榜",
+    "period": "2021_20",
+    "songList": [
+      {
+        "id": 307322651,
+        "singerName": "Bomb比尔",
+        "songName": "1201牵手-比尔的歌"
+      },
+      {
+        "id": 308424156,
+        "singerName": "闻人听書_",
+        "songName": "韶华渡"
+      },
+      {
+        "id": 300836597,
+        "singerName": "王赫野",
+        "songName": "大风吹"
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "pic": "http://y.gtimg.cn/music/photo_new/T003R300x300M000002zLG0M3VT9r2.jpg",
+    "name": "美国公告牌榜",
+    "period": "2021_19",
+    "songList": [
+      {
+        "id": 256080900,
+        "singerName": "The Weeknd",
+        "songName": "Save Your Tears (Explicit)"
+      },
+      {
+        "id": 300213969,
+        "singerName": "Bruno Mars/Anderson .Paak/Silk Sonic",
+        "songName": "Leave The Door Open"
+      },
+      {
+        "id": 300113884,
+        "singerName": "Justin Bieber/Daniel Caesar/Giveon",
+        "songName": "Peaches (Explicit)"
+      }
+    ]
+  },
+  {
+    "id": 123,
+    "pic": "http://y.gtimg.cn/music/photo_new/T003R300x300M000002cFRas2LM6l2.jpg",
+    "name": "美国iTunes榜",
+    "period": "2021_20",
+    "songList": [
+      {
+        "id": 232893690,
+        "singerName": "Masked Wolf",
+        "songName": "Astronaut In The Ocean"
+      },
+      {
+        "id": 310321235,
+        "singerName": "Nicki Minaj/Drake/Lil Wayne",
+        "songName": "Seeing Green (Explicit)"
+      },
+      {
+        "id": 278788940,
+        "singerName": "Dua Lipa/DaBaby",
+        "songName": "Levitating (feat. DaBaby)"
+      }
+    ]
+  },
+  {
+    "id": 129,
+    "pic": "http://y.gtimg.cn/music/photo_new/T003R300x300M000002i3dwR4KHVFd.jpg",
+    "name": "韩国Melon榜",
+    "period": "2021_20",
+    "songList": [
+      {
+        "id": 200962311,
+        "singerName": "Brave Girls (브레이브걸스)",
+        "songName": "롤린 (Rollin')"
+      },
+      {
+        "id": 300113884,
+        "singerName": "Justin Bieber/Daniel Caesar/Giveon",
+        "songName": "Peaches (Explicit)"
+      },
+      {
+        "id": 303371305,
+        "singerName": "IU (아이유)",
+        "songName": "라일락 (LILAC)"
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "pic": "http://y.gtimg.cn/music/photo_new/T003R300x300M000004eywMv1H0jYS.jpg",
+    "name": "英国UK榜",
+    "period": "2021_20",
+    "songList": [
+      {
+        "id": 303258912,
+        "singerName": "Russ Millions/Tion Wayne",
+        "songName": "Body (Explicit)"
+      },
+      {
+        "id": 302985564,
+        "singerName": "Lil Nas X",
+        "songName": "MONTERO (Call Me By Your Name) (Explicit)"
+      },
+      {
+        "id": 304692871,
+        "singerName": "Doja Cat/SZA",
+        "songName": "Kiss Me More (Explicit)"
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "pic": "http://y.gtimg.cn/music/photo_new/T003R300x300M0000032IpR54cSsfw.jpg",
+    "name": "日本公信榜",
+    "period": "2021_19",
+    "songList": [
+      {
+        "id": 308711166,
+        "singerName": "藤井风 (ふじい かぜ)",
+        "songName": "きらり"
+      },
+      {
+        "id": 307890377,
+        "singerName": "Official鬍子男dism (Official Hige Dandism)",
+        "songName": "Cry Baby"
+      },
+      {
+        "id": 279400656,
+        "singerName": "優里 (ゆうり)",
+        "songName": "ドライフラワー (Dry Flower)"
+      }
+    ]
+  },
+  {
+    "id": 126,
+    "pic": "http://y.gtimg.cn/music/photo_new/T003R300x300M000001wTJiW26Cg7q.jpg",
+    "name": "JOOX本地热播榜",
+    "period": "2021_20",
+    "songList": [
+      {
+        "id": 303291827,
+        "singerName": "林家谦",
+        "songName": "神奇的糊涂魔药"
+      },
+      {
+        "id": 303364020,
+        "singerName": "MIRROR",
+        "songName": "WARRIOR"
+      },
+      {
+        "id": 127600715,
+        "singerName": "陈卓贤",
+        "songName": "DWBF"
+      }
+    ]
+  },
+  {
+    "id": 130,
+    "pic": "http://y.gtimg.cn/music/photo_new/T003R300x300M000002PIRJO4Tqu4m.jpg",
+    "name": "香港TVB劲歌金榜",
+    "period": "2021_20",
+    "songList": [
+      {
+        "id": 292898985,
+        "singerName": "Mike曾比特",
+        "songName": "我不如"
+      },
+      {
+        "id": 300413243,
+        "singerName": "JUDE曾若华",
+        "songName": "醒"
+      },
+      {
+        "id": 289777604,
+        "singerName": "Supper Moment",
+        "songName": "波板糖"
+      }
+    ]
+  },
+  {
+    "id": 127,
+    "pic": "http://y.gtimg.cn/music/photo_new/T003R300x300M000003VIL7k4BgX84.jpg",
+    "name": "台湾KKBOX榜",
+    "period": "2021_20",
+    "songList": [
+      {
+        "id": 127606052,
+        "singerName": "顽童MJ116",
+        "songName": "Sweet Baby"
+      },
+      {
+        "id": 305357253,
+        "singerName": "Marz23/莫宰羊",
+        "songName": "最美的风景 (feat. 莫宰羊)"
+      },
+      {
+        "id": 307145733,
+        "singerName": "八三夭乐团",
+        "songName": "规则就是用来打破的"
+      }
+    ]
+  },
+  {
+    "id": 128,
+    "pic": "http://y.gtimg.cn/music/photo_new/T003R300x300M000001N8Bgl375he7.jpg",
+    "name": "YouTube音乐排行榜",
+    "period": "2021_20",
+    "songList": [
+      {
+        "id": 304627027,
+        "singerName": "Polo G",
+        "songName": "RAPSTAR (Explicit)"
+      },
+      {
+        "id": 302985564,
+        "singerName": "Lil Nas X",
+        "songName": "MONTERO (Call Me By Your Name) (Explicit)"
+      },
+      {
+        "id": 309142013,
+        "singerName": "Trippie Redd/PLAYBOI CARTI",
+        "songName": "Miss The Rage (Explicit)"
+      }
+    ]
+  }
+]
